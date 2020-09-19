@@ -9,7 +9,7 @@ Student Report Generator is a simple desktop application that allows teachers fr
 The program takes a __.xlsx__ file with the following details:
  * __Each sheet is a specific subject to be recorded and has:__
     * __Students' names__
-    * __Tests and Exams marks__
+    * __Tests and exam marks__
 
 See the screen shot below:
 
@@ -22,7 +22,7 @@ On reading a __.xlsx__ in the required format(as shown above), the program does 
       * The program goes through each column, associating the columns as follows:
       
              1 The first column with student's name
-             2 The second up to  (n-1)th column with tests (i.e test 1, test 2,....., test n)
+             2 The second up to the (n-1)th column with tests (i.e test 1, test 2,....., test n)
              3 The last column with the exam mark
              
    * For each student's name and respective subject, the program does the following:
@@ -35,7 +35,7 @@ On reading a __.xlsx__ in the required format(as shown above), the program does 
 ---      
 ## User Interface
 
-Users (teachers) interact with the application using a tiny GUI with one button which they will to navigate their computer to find the input file. On opening the file, they are prompted to input the class grade and next term's opening date (since this information is generic for all the reports).
+Users (teachers) interact with the application using a tiny GUI with one button on which they will click to navigate their computer to find the input file. On opening the file, they are prompted to input the class grade and the next term's opening date (since this information is generic for all the reports).
 
 The screen short below shows how the GUI looks like:
 
