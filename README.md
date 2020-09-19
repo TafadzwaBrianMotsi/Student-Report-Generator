@@ -37,7 +37,9 @@ On reading a __.xlsx__ in the required format(as shown above), the program does 
 
 Users (teachers) interact with the application using a tiny GUI with one button which they will to navigate their computer to find the input file. On opening the file, they are prompted to input the class grade and next term's opening date (since this information is generic for all the reports).
 
-See the screen short below shows how the GUI looks like:
+The screen short below shows how the GUI looks like:
+
+![](report_generator/output_images/ui.png)
 
 
 ## Output File
@@ -49,4 +51,6 @@ On creating a __.docx__ file for each student, the program does the following:
    * Appends a section for the student's scale
    * Finally adds the comments section
 
-The screen shot below show how a report of some student how
+The screen shot below shows how a report of a student would look like:
+
+![](report_generator/output_images/report.png)
