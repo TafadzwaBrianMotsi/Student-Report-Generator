@@ -4,6 +4,7 @@
 
 Student Report Generator is a simple desktop application that allows teachers from the __Little Primary School, Pinevalley, Mbabane Eswatini__ to automate the process of creating their students' reports.
 
+## Input File
 The Application takes an __.xlsx__ file constituting the following details:
  * __Each sheet is a specific subject to be recorded, with:__
     * __Students' names__
@@ -11,6 +12,8 @@ The Application takes an __.xlsx__ file constituting the following details:
 
 See the screen shot below:
 
-![](../output_images/input_file.png)
+![](report_generator/output_images/input_file.png)
+
+## Output File
 
 
