@@ -6,7 +6,7 @@ Student Report Generator is a simple desktop application that allows teachers fr
 
 ## Input File
 
-The program takes a __.xlsx__ file constituting the following details:
+The program takes a __.xlsx__ file with the following details:
  * __Each sheet is a specific subject to be recorded, with:__
     * __Students' names__
     * __Tests and Exams marks__
