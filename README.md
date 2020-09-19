@@ -39,7 +39,7 @@ Users (teachers) interact with the application using a tiny GUI with one button 
 
 The screen short below shows how the GUI looks like:
 
-![](report_generator/output_images/ui.png)
+![](report_generator/output_images/ui_1.png)
 
 
 ## Output File
