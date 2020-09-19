@@ -55,9 +55,16 @@ The screen shot below shows how a report of a student would look like:
 
 ![](report_generator/output_images/report.png)
 
+---
 ## Technologies
 
    * [__Python 3.6__](https://www.python.org/downloads/release/python-360/ "Python 3.6")
    * [__openpyxl__](https://openpyxl.readthedocs.io/en/stable/ "openpyxl")
    * [__python-docx__](https://python-docx.readthedocs.io/en/latest/ "python-docx")
    * [__PyQt5__](https://doc.qt.io/qtforpython/ "PyQt5")
+  
+  
+---
+## Future Enhancements
+   * Handle different input file formats
+   * Apply Machine learning to generate comments of each report
