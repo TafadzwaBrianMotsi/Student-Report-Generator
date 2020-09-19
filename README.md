@@ -1,5 +1,5 @@
 # Student-Report-Generator
----
+
 ## The Little Primary School Report Generator
 
 Student Report Generator is a simple desktop application that allows teachers from the __Little Primary School, Pinevalley, Mbabane Eswatini__ to automate the process of creating their students' reports.
@@ -32,7 +32,7 @@ On reading a __.xlsx__ in the required format(as shown above), the program does 
       * Remarks on each subject is determined by the term mark.
       * The overall term average mark is computed to determine the scale (i.e Merit, or First, etc)
       * A .__docx__ file is created and populated with these results
-      
+---      
 ## User Interface
 
 Users (teachers) interact with the application using a tiny GUI with one button which they will to navigate their computer to find the input file. On opening the file, they are prompted to input the class grade and next term's opening date (since this information is generic for all the reports).
@@ -41,7 +41,7 @@ The screen short below shows how the GUI looks like:
 
 ![](report_generator/output_images/ui_2.png)
 
-
+---
 ## Output File
 
 On creating a __.docx__ file for each student, the program does the following:
@@ -54,3 +54,10 @@ On creating a __.docx__ file for each student, the program does the following:
 The screen shot below shows how a report of a student would look like:
 
 ![](report_generator/output_images/report.png)
+
+## Technologies
+
+   * [__Python 3.6__](https://www.python.org/downloads/release/python-360/ "Python 3.6")
+   * [__openpyxl__](https://openpyxl.readthedocs.io/en/stable/ "openpyxl")
+   * [__python-docx__](https://python-docx.readthedocs.io/en/latest/ "python-docx")
+   * [__PyQt5__](https://doc.qt.io/qtforpython/ "PyQt5")
