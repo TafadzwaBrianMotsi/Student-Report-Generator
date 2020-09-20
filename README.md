@@ -67,4 +67,4 @@ The screen shot below shows how a report of a student would look like:
 ---
 ## Future Enhancements
    * Handle different input file formats
-   * Apply Machine Learning to generate comments of each report
+   * Design an algorithm based on machine learning to generate comments of each report
